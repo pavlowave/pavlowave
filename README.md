@@ -30,7 +30,7 @@ LeetCode: [![LeetCode user pavlowave](https://img.shields.io/badge/dynamic/json?
     </picture>
   </a>
 
-  <a href="https://t.me/pavel_iso" style="margin-right: 10px;">
+  <a href="https://t.me/pavIowave" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="32" height="32">
   </a>
 </div>
