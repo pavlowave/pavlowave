@@ -21,13 +21,13 @@ LeetCode: [![LeetCode user pavlowave](https://img.shields.io/badge/dynamic/json?
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman" /></a>
 </p>
 
 #### Frontend
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="36" height="36" alt="HTML" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="36" height="36" alt="CSS" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="30" height="30" alt="CSS" /></a>
 </p>
 
 
