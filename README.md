@@ -17,8 +17,8 @@ LeetCode: [![LeetCode user pavlowave](https://img.shields.io/badge/dynamic/json?
 
 #### Backend
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+[![Python](https://simpleicons.org/icons/python.svg)](https://www.python.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="36" height="36" alt="Redis" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman" /></a>
@@ -36,6 +36,9 @@ LeetCode: [![LeetCode user pavlowave](https://img.shields.io/badge/dynamic/json?
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
+
+#### Deployment
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### Socials
 
