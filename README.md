@@ -23,8 +23,8 @@ LeetCode: [![LeetCode user pavlowave](https://img.shields.io/badge/dynamic/json?
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Postman](https://img.shields.io/badge/Postman-%23272C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-</div>
-
+#### Storage
+[![Yandex Object Storage](https://img.shields.io/badge/Yandex%20Object%20Storage-%2387A9FF?style=for-the-badge&logo=yandex&logoColor=black)](https://cloud.yandex.com/services/storage)
 
 #### Frontend
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
